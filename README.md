@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ammar 👋
 
-<!--
-**ammarjamaleh/ammarjamaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical engineer from Damascus, Syria, passionate about AI in healthcare and medical software.
 
-Here are some ideas to get you started:
+## What I work with
+- Languages: Python, C, C++, JavaScript, SQL
+- Web: HTML, CSS, Flask
+- Embedded: Arduino (C++), sensor integration, PID control
+- Tools: Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning and goals
+- Completed Harvard CS50x, CS50P and CS50 AI
+- Learning German (B2 course in progress)
+- Building projects at the intersection of AI and healthcare
+- Aiming for a career in medical technology software in Germany
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/ammar-jamaleh)
